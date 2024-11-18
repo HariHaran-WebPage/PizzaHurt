@@ -1,0 +1,241 @@
+[
+  {
+    "name": "PEPPER BARBECUE CHICKEN",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 200,
+        "medium": 350,
+        "large": 400
+      }
+    ],
+    "category": "nonveg",
+    "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+    "description": "Pepper Barbecue Chicken I Cheese"
+  },
+  {
+    "name": "Non Veg Supreme",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 200,
+        "medium": 350,
+        "large": 400
+      }
+    ],
+    "category": "nonveg",
+    "image": "https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg",
+    "description": "Bite into supreme delight of Black Olives, Onions, Grilled Mushrooms, Pepper BBQ Chicken, Peri-Peri Chicken, Grilled Chicken Rashers"
+  },
+  {
+    "name": "Golden Corn ",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 180,
+        "medium": 250,
+        "large": 360
+      }
+    ],
+    "category": "veg",
+    "description": "Corn over the base makes it look beautiful. It is served with tomato sauce and chili flakes are sprinkled over the topping according the taste. After mixing all the ingredients, it is baked by adding cheese and corn for added flavor to pizza. Corn adds health and sweet taste to the pizza.",
+    "image": "https://www.crazymasalafood.com/wp-content/images/golden-1.jpg"
+  },
+  {
+    "name": "Jalapeno",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 200,
+        "medium": 300,
+        "large": 420
+      }
+    ],
+    "category": "veg",
+    "image": "https://www.crazymasalafood.com/wp-content/images/jalepeno.jpg",
+    "description": "This pizza is amazing and can become more delicious if we will add some more cheese in it. Ingredients are yeast, sugar, olive oil, salt, and all-purpose flour in a big bowl. After mixing all the ingredients, it is baked by adding Jalapeno and Paprika with corns over the cheese layer. The base is made crunchy to give it best taste. It can be made more tasty by sprinkling chili flakes and Oregano as per the taste."
+  },
+  {
+    "name": "Margerita",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 150,
+        "medium": 220,
+        "large": 300
+      }
+    ],
+    "category": "veg",
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/09/margherita-pizza-500x500.jpg",
+    "description": "The pizza base is made by mixing yeast, sugar, olive oil, salt, and all-purpose flour in a big bowl. After mixing all the ingredients, it is baked by adding the cheese as topping over it. The base is perfectly prepared by adding single layer of cheese over it. It is mouth-watering pizza for cheese lovers."
+  },
+  {
+    "name": "Double Cheese Margherita",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 250,
+        "medium": 380,
+        "large": 500
+      }
+    ],
+    "category": "veg",
+    "image": "https://www.crazymasalafood.com/wp-content/images/double-1.jpg",
+    "description": "This is a plain pizza which have cheese on it which is margherita and is delicious because of the loads of cheese. After mixing all the ingredients, it is baked by adding the cheese as topping over it. The base is perfectly prepared by adding double layer of cheese over it"
+  },
+  {
+    "name": "INDI CHICKEN TIKKA",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 339,
+        "medium": 599,
+        "large": 879
+      }
+    ],
+    "category": "nonveg",
+    "image": "https://www.dominos.co.in/files/items/IndianChickenTikka.jpg",
+    "description": "The wholesome flavour of tandoori masala with Chicken tikka I onion I red paprika I mint mayo"
+  },
+  {
+    "name": "INDI TANDOORI PANEER",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 279,
+        "medium": 499,
+        "large": 729
+      }
+    ],
+    "category": "veg",
+    "image": "https://www.dominos.co.in/files/items/IndianTandooriPaneer.jpg",
+    "description": "It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum I red paprika I mint mayo"
+  },
+  {
+    "name": "Veg Extravaganza",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 180,
+        "medium": 320,
+        "large": 380
+      }
+    ],
+    "category": "veg",
+    "image": "https://www.dominos.co.in/files/items/Veg_Extravaganza.jpg",
+    "description": "Loaded with golden corn, black olives, capsicum, onion, grilled mushrooms, and fresh tomatoes"
+  },
+  {
+    "name": "Chicken Dominator",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 220,
+        "medium": 370,
+        "large": 450
+      }
+    ],
+    "category": "nonveg",
+    "image": "https://www.dominos.co.in/files/items/ChickenDominator.jpg",
+    "description": "Loaded with Double Pepper BBQ Chicken, Peri-Peri Chicken, Chicken Tikka, and Grilled Chicken Rashers"
+  },
+
+  {
+    "name": "Peppy Paneer",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 190,
+        "medium": 340,
+        "large": 410
+      }
+    ],
+    "category": "veg",
+    "image": "https://www.dominos.co.in/files/items/Peppy_Paneer.jpg",
+    "description": "Flavorful combination of paneer, crisp capsicum, and red paprika"
+  },
+  {
+    "name": "Margherita",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 150,
+        "medium": 280,
+        "large": 330
+      }
+    ],
+    "category": "veg",
+    "image": "https://www.dominos.co.in/files/items/Margherit.jpg",
+    "description": "Classic delight with 100% real mozzarella cheese"
+  },
+  {
+    "name": "Farmhouse",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 200,
+        "medium": 350,
+        "large": 420
+      }
+    ],
+    "category": "veg",
+    "image": "https://www.dominos.co.in/files/items/Farmhouse.jpg",
+    "description": "A pizza that goes ballistic on veggies with capsicum, onion, tomatoes, and grilled mushrooms"
+  },
+  {
+    "name": "Barbeque Chicken",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 230,
+        "medium": 380,
+        "large": 450
+      }
+    ],
+    "category": "nonveg",
+    "image": "https://www.dominos.co.in/files/items/Barbeque_Chicken.jpg",
+    "description": "Smoky barbeque chicken, crispy onions, and capsicum"
+  },
+  {
+    "name": "Cheese N Corn",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 170,
+        "medium": 310,
+        "large": 360
+      }
+    ],
+    "category": "veg",
+    "image": "https://www.dominos.co.in/files/items/Corn.jpg",
+    "description": "Cheese lovers’ dream with golden corn and extra cheese"
+  },
+  {
+    "name": "Paneer Makhani",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 190,
+        "medium": 340,
+        "large": 420
+      }
+    ],
+    "category": "veg",
+    "image": "https://www.dominos.co.in/files/items/Paneer_Makhni.jpg",
+    "description": "Indian-inspired pizza with creamy paneer makhani topping"
+  },
+  {
+    "name": "Peri Peri Chicken",
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 240,
+        "medium": 390,
+        "large": 470
+      }
+    ],
+    "category": "nonveg",
+    "image": "https://www.dominos.co.in/files/items/Peri-Peri_Chicken.jpg",
+    "description": "Spicy Peri-Peri chicken with onions and red paprika"
+  }
+]
